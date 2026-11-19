@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+PyMuPDF
+spacy
+sentence-transformers
+fastapi
+uvicorn[standard]
+python-multipart
+pytest
+httpx
